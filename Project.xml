@@ -180,7 +180,7 @@
 	</section>
 
 	<!--Target SDK-->
-	<android target-sdk-version="28" if="EXTERNAL || MEDIA"/> <!-- blame android 11+!!! -->
+	<android target-sdk-version="30" if="EXTERNAL || MEDIA"/> <!-- blame android 11+!!! -->
 
 	<section if="ios">
 		<!--Dependency--> 
